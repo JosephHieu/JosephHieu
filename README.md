@@ -1,13 +1,13 @@
-# Hi there, I'm Joseph Hieu 👋 
+# Hi there, I'm Joseph Hieu 👋
 
-### Full-stack Engineer | Java Specialist | Learner DevOps & System Architecture
+### Full-stack Engineer | Java Specialist | DevOps & System Architecture Learner
 
-Tôi là một lập trình viên Full-stack với tư duy xây dựng sản phẩm hoàn chỉnh, tập trung vào việc chuyển đổi các yêu cầu nghiệp vụ phức tạp (SRS) thành các hệ thống thực tế, có khả năng mở rộng và dễ dàng triển khai.
+I'm a Full-stack Engineer with a product-oriented mindset, passionate about transforming complex business requirements (SRS) into scalable, maintainable, and production-ready software systems.
 
 <div align="center">
 
 <h2 align="center">
-  Reach on me
+  Reach me at
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="35" style="vertical-align: middle;" />
 </h2>
 
@@ -41,36 +41,42 @@ Tôi là một lập trình viên Full-stack với tư duy xây dựng sản ph�
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-
 </div>
 
 ## Featured Full-stack Projects
 
-### VaxTrack Pro - Centralized Vaccination & Finance Management
-*Giải pháp quản trị tổng thể cho trung tâm y tế dự phòng theo chuẩn SRS v3.0.*
+### VaxTrack Pro - Centralized Vaccination & Financial Management System
+
+*A comprehensive management solution for preventive healthcare centers, designed based on SRS v3.0.*
+
 - **Backend:** Spring Boot 3.x, Spring Security (RBAC), Spring Data JPA, Hibernate.
 - **Frontend:** React.js, Tailwind CSS, Lucide Icons.
-- **Kỹ thuật nổi bật:** - Xử lý quy trình y tế khép kín (E2E) từ Kho -> Khám -> Tiêm -> Tài chính.
-    - Quản lý lỗi tập trung với `AppException` & `ApiResponse` chuẩn hóa.
-    - Unit & Integration Test với JUnit 5/Mockito kết hợp **CI/CD qua GitHub Actions**.
-- **DevOps:** Đóng gói hoàn toàn bằng **Docker**, sẵn sàng chạy ngay với 1 lệnh `docker-compose up`.
-- 🔗 [Xem Repository](https://github.com/JosephHieu/HeThongQuanLyTiemChungVaccine)
+- **Key Features:**
+  - Implemented an end-to-end healthcare workflow from Inventory → Examination → Vaccination → Financial Management.
+  - Centralized exception handling using standardized `AppException` and `ApiResponse`.
+  - Comprehensive Unit & Integration Testing with JUnit 5 and Mockito, integrated with **GitHub Actions CI/CD**.
+- **DevOps:** Fully containerized with Docker, enabling one-command deployment via `docker-compose up`.
+- 🔗 [View Repository](https://github.com/JosephHieu/HeThongQuanLyTiemChungVaccine)
 
 ### Online Feedback Management & Analytics System
-*Hệ thống quản lý và phân tích phản hồi giáo dục với kiến trúc RESTful.*
+
+*A RESTful platform for managing and analyzing educational feedback.*
+
 - **Backend:** Java 21, Spring Boot 3, PostgreSQL 16, MapStruct.
 - **Frontend:** ReactJS, Recharts (Real-time Analytics Dashboard).
-- **Kỹ thuật nổi bật:** - Thiết kế khảo sát động (Dynamic Survey) với hệ thống câu hỏi không giới hạn.
-    - Xử lý dữ liệu hàng loạt (Import Excel) và xuất báo cáo Pivot Data chuyên nghiệp.
-    - Phân tích kết quả thời gian thực qua biểu đồ trực quan.
-- **DevOps:** Dockerized toàn bộ hệ thống.
-- 🔗 [Xem Repository](https://github.com/JosephHieu/FeedbackOnlineSystem)
+- **Key Features:**
+  - Designed a dynamic survey engine supporting unlimited question structures.
+  - Implemented bulk Excel import and professional Pivot-style reporting.
+  - Built real-time analytics dashboards with interactive visualizations.
+- **DevOps:** Fully Dockerized for consistent deployment across environments.
+- 🔗 [View Repository](https://github.com/JosephHieu/FeedbackOnlineSystem)
 
 ## My Engineering Mindset
-- **Product Mindset:** Luôn bám sát tài liệu đặc tả SRS để đảm bảo tính đúng đắn của nghiệp vụ.
-- **Clean Code:** Ưu tiên xử lý lỗi tập trung, tối ưu hóa truy vấn Database và cấu trúc code minh bạch.
-- **One-Click Deployment:** Quan niệm ứng dụng tốt là ứng dụng có thể triển khai nhanh chóng và ổn định trên mọi môi trường.
+
+- **Product Mindset:** I closely follow Software Requirements Specifications (SRS) to ensure business logic is implemented accurately.
+- **Clean Code:** I prioritize centralized exception handling, database query optimization, and clean, maintainable code architecture.
+- **One-Click Deployment:** I believe great software should be easy to deploy, reliable, and production-ready across different environments.
 
 ---
 
-*“I don't just write code; I build, containerize, and deploy products from scratch.”*
+> *"I don't just write code; I build, containerize, and deploy products from scratch."*
